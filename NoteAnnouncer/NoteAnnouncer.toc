@@ -1,0 +1,11 @@
+## Interface: 80000
+## Title: NoteAnnouncer
+## Description: Displays Guild Public and Friend Notes for login - /WHO announcements
+## Notes: Displays Guild Public and Friend Notes for login - /WHO announcements
+## SavedVariables: NoteAnnounceConfig
+## X-Curse-Packaged-Version: 1.0.5
+## X-Curse-Project-Name: Guild and Friend Note Announcer
+## X-Curse-Project-ID: noteannouncer
+## X-Curse-Repository-ID: wow/noteannouncer/mainline
+
+NoteAnnouncer.lua
